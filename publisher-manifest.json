@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a1175adbc7a8a9caa07347ac",
+  "owner": "kamkgaeken",
+  "repo": "page-980694d789a29cf723d68c3d",
+  "title": "GOOD4G",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "980694d789a29cf723d68c3d",
+      "a": "GOOD4G",
+      "b": "2027最新官网",
+      "entity": "GOOD4G",
+      "brand": "GOOD4G",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0e5b3fc5d69352fb3077620ae7bdbe6d976db62adcef8eb18979a5567a2b9dd8",
+      "content": {
+        "primary_entity": "GOOD4G",
+        "keyword1": "GOOD4G",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "Windows、macOS、iOS、Android 与路由器均有对应订阅配置方式，按设备系统选择客户端即可。",
+          "AI_CLIENTS_TITLE": "按设备挑选客户端",
+          "AI_CLOSING_TEXT": "结合设备数量与月流量，从基础版到团队版逐项对比，选定后依照客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选对套餐，连上更快",
+          "AI_DESCRIPTION": "，GOOD4G 提供基础版、旗舰版与团队版三档订阅，月流量从 100GB 到 1000GB，设备数从 3 台到 20 台，按年付分别仅需 ¥150、¥350 与 ¥850。日常轻量使用可选基础版，兼顾流媒体与游戏加速可选旗舰版，多设备与团队场景可选团队版。",
+          "AI_FEATURES_INTRO": "从流量、设备数量到线路质量，三档套餐对应不同使用强度，按需选择即可。",
+          "AI_FEATURES_TITLE": "套餐配置要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，旗舰版 300GB、5 台，团队版 1000GB、20 台。",
+          "AI_FEATURE_TEXT_2": "按年付更省：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏加速，团队版提供 VIP 高带宽节点与定制路由。",
+          "AI_FEATURE_TITLE_1": "流量与设备梯度",
+          "AI_FEATURE_TITLE_2": "年付价格优惠",
+          "AI_FEATURE_TITLE_3": "线路与加速差异",
+          "AI_GUIDE_INTRO": "先明确设备数量与月流量，再对照套餐权益，最后按所用系统的客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_HERO_INTRO": "GOOD4G 面向需要稳定海外网络访问的用户，提供三档按流量与设备数区分的订阅方案，覆盖日常浏览、流媒体播放与游戏加速等场景，可按使用强度灵活选择。",
+          "AI_HERO_SUBTITLE": "三档订阅对应不同设备与流量",
+          "AI_HIGHLIGHT_1": "100GB 起，最高 1000GB 月流量",
+          "AI_HIGHLIGHT_2": "3 台至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "年付低至 ¥150，长期使用更划算",
+          "AI_PLANS_INTRO": "基础版适合轻度上网，旗舰版强化流媒体与游戏，团队版面向多设备高流量需求，可按年付节省费用。",
+          "AI_PLANS_TITLE": "三档套餐横向对比",
+          "AI_STEP_TEXT_1": "统计常用设备数量与每月大致流量消耗，在基础版、旗舰版、团队版中锁定候选。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限、流量额度与线路类型，确认是否满足流媒体或游戏加速需求。",
+          "AI_STEP_TEXT_3": "按手机或电脑的系统选择对应客户端，依照客户端文档导入订阅信息完成配置。",
+          "AI_STEP_TITLE_1": "确定使用需求",
+          "AI_STEP_TITLE_2": "核对套餐适配",
+          "AI_STEP_TITLE_3": "配置设备订阅",
+          "AI_VISUAL_TITLE": "GOOD4G 加速订阅",
+          "AI_FAQ_ANSWER_1": "在客户端界面的订阅设置中粘贴订阅地址，保存后即可获取线路节点。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版 5 台，团队版 20 台，可根据常用设备数量选择。",
+          "AI_FAQ_ANSWER_3": "按月付或按年付均可，按年付分别 ¥150/年、¥350/年、¥850/年，适合长期使用。",
+          "AI_FAQ_ANSWER_4": "在客户端内手动执行订阅更新，或重启客户端自动获取最新线路节点。",
+          "AI_FAQ_ANSWER_5": "先确认路由器是否支持客户端插件或旁路由方案，再按对应设备文档导入订阅。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "GOOD4G 的订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_2": "不同套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "按月付和按年付有什么区别？",
+          "AI_FAQ_QUESTION_4": "订阅更新后节点没有变化怎么办？",
+          "AI_FAQ_QUESTION_5": "在路由器上如何使用 GOOD4G？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--yfrw1gh43ca295oeqd.com",
+    "host": "xn--yfrw1gh43ca295oeqd.com"
+  },
+  "file_hashes": {
+    "index.html": "2f2e31581d4ea2dc6227e9d058660b67624575bd71250fa0fc9685ccfe356d95",
+    "sitemap.xml": "1d67a2eae3e67fe299c9d2963d1de49971366c2575434376d7e7c072f763fdf6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "50e3871ef0706dea78a18689ad26f5f610d006956b727a1cf587beaec99e7ca1",
+    "robots.txt": "958439fe8dab8fb48e6851182f8787d40547a61c6b39733a7cd264fb2e9a0d0f",
+    "a744dc114ebbe884348c2337864369be.txt": "11f0ffa9d3525d3d99b69a9c83ac66ceb0cc3bca69e7558784a0ae69c7dc2408"
+  },
+  "revision": "6e6b7a719464ee6ba7d6e92b994f8b68144a6ea96989a5ab77137e47dd2df145"
+}
